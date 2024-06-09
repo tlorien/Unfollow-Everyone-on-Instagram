@@ -1,6 +1,8 @@
 # Unfollow-Everyone-on-Instagram
 This project contains a simple JavaScript script to automatically unfollow everything on your Instagram account's 'following' page. The script simulates user interactions by clicking the necessary buttons to unfollow each profile.
 
+[Want to unlike all Facebook pages—or, delete all of your comments, likes, and reactions? Check out my other script!](https://github.com/tyrtles/Unlike-Everything-on-Facebook)
+
 ## Why?
 **Privacy Concerns**
 Following a large number of accounts can expose your personal interests, routines, and connections to a wide audience. By unfollowing these accounts, you can better protect your privacy and control the information you share online.
