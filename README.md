@@ -11,7 +11,7 @@ Following a large number of accounts can expose your personal interests, routine
 Every account you follow is a potential entry point for phishing attacks and other security threats. Unfollowing accounts reduces your exposure to malicious links and content, helping to keep your account secure.
 
 **Digital Minimalism**
-Digital minimalism is about reducing digital clutter and focusing on what truly matters. By unfollowing unnecessary accounts, you can create a more intentional and meaningful online experience. A cluttered Instagram feed can be overwhelming and distracting. Unfollowing accounts helps to declutter your feed, making it easier to focus on the content that is most relevant to you.
+Reduce digital clutter and focus on what truly matters: by unfollowing unnecessary accounts, you can create a more intentional and meaningful online experience. Digital clutter and distractions can waste hours of your time. Unfollowing accounts helps to declutter your feed, making it easier to focus on the content that is most relevant to you.
 
 ## Usage
 1. **Log into Instagram and navigate to your profile.**
@@ -48,10 +48,7 @@ Digital minimalism is about reducing digital clutter and focusing on what truly 
 ```
 
 ## Important Notes
-Use this script responsibly and be aware of Instagram's terms of service. Excessive unfollowing actions in a short period might get your account temporarily restricted.
-Ensure you scroll down the list to load all the followed pages if the list is long.
-This script includes delays to handle Instagram's dynamic content and avoid triggering rate limiting or other security measures.
-By using this script, you can take control of your Instagram experience and make it more aligned with your personal values and goals.
+Be aware of Instagram's terms of service: excessive unfollowing actions in a short period might get your account temporarily restricted (usually this just prevents you from interacting the website for a few hours). This script includes delays to handle Instagram's dynamic content and avoid triggering rate limiting or other security measures.
 
 ## Contributing
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
