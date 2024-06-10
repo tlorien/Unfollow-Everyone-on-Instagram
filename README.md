@@ -14,6 +14,9 @@ Every account you follow is a potential entry point for phishing attacks and oth
 Reduce digital clutter and focus on what truly matters: by unfollowing unnecessary accounts, you can create a more intentional and meaningful online experience. Digital clutter and distractions can waste hours of your time. Unfollowing accounts helps to declutter your feed, making it easier to focus on the content that is most relevant to you.
 
 ## Usage
+
+### Note: this script only works if the language on the page is set to English.
+
 1. **Log into Instagram and navigate to your profile.**
 
 2. **Click on the "Following" count on your profile page** to open the list of pages you follow.
